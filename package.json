@@ -1,12 +1,12 @@
 {
-  "name": "@onekeyfe/react-native-animated-charts",
+  "name": "@unionkeyfe/react-native-animated-charts",
   "version": "2.0.1",
   "description": "The library provides a set of components and helpers for building complex and beautiful animated linear (only - for now) charts. It's a part of the [Rainbow.me project](https://rainbow.me/).",
   "main": "src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Michał Osadnik, @onekeyfe",
+  "author": "Michał Osadnik, @unionkeyfe",
   "files": [
     "src/"
   ],

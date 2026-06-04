@@ -22,7 +22,7 @@ It's a part of the [Rainbow.me project](https://rainbow.me/).
 3. Install [react-native-gesture-handler](https://docs.swmansion.com/react-native-gesture-handler/docs/fundamentals/installation) v2.x or later.
 4.
 ```bash
-yarn add @onekeyfe/react-native-animated-charts
+yarn add @unionkeyfe/react-native-animated-charts
 ```
 
 ### Requirements
